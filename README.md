@@ -1,1 +1,4 @@
-# noughts-n-crosses
+# ABOUT
+The project contains an easy tic-tac-toe game that can be played both with the computer and with other players online in a local area network. It is a good project to start with the intermediate to advanced topics of Python like socket programming and threading. Besides it uses a minimax algorithm to plan the strategy of the computer to play against the user. Since the algorithm implicitly assumes that the user plays optimally, it is almost impossible to beat the computer. However you can control the use of the algorithm to compute the most optimal move by the computer in order to increase the winning chances of the player ( *like introducing a setting in which computer follows the startegy guided by the algorithm with a probability of 90% and other 10% of the times it chooses randomly* ).
+
+**Do not forget to fill in the IP address and the port, both on the client and the server side.**
